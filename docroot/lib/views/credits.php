@@ -38,19 +38,10 @@ $this->load_header();
         </ul>
       </li>
 
-      <li id="link_buttons">Some of the <a href="<?php $this->base_url('link_buttons'); ?>">link buttons</a> contain material subjected to the following licensing:
-        <ul>
-          <li><a href="http://en.wikipedia.org/wiki/File:Heckert_GNU_white.svg">Heckert_GNU_white.svg</a> by Aurelio A. Heckert, <a href="http://artlibre.org/licence/lal/en/">Free Art License</a>;</li>
-          <li><a href="http://www.gnu.org/graphics/gnusvgart.html">The GNU Head</a> by Sven H, used with permission from author;</li>
-          <li><a href="http://commons.wikimedia.org/wiki/File:Nuvola_apps_emacs.png">Nuvola_apps_emacs.png</a> by David Vignoni, presumably <a href="http://en.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU FDL license</a>;</li>
-          <li><a href="http://commons.wikimedia.org/wiki/File:Tux.png">Tux.png</a> by Larry Ewing, permission to copy if credit given.</li>
-        </ul>
-      </li>
-
-      <li>Ubuntu and Fedora logos: in accordance with the respective trademark guidelines (<a href="http://fedoraproject.org/wiki/Legal/TrademarkGuidelines">Fedora</a>, <a href="http://www.ubuntu.com/aboutus/trademarkpolicy">Ubuntu</a>)</li>
-      <li>gNewSense artwork: based on work <a href="http://www.flickr.com/photos/davelab6/sets/72157594509090768/">by Dave Crossland</a>, <abbr title="Creative Commons">CC</abbr> <abbr title="Attribution, Share Alike">BY-SA</abbr>, with special thanks.</li>
-      <li><a href="http://trisquel.info/en/wiki/logo">Trisquel logo</a> by Rubén Rodríguez Pérez, <a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GNU <abbr title="General Public License">GPL</abbr></a>.</li>
-      <li>The laptop image on the "Try or install" page used with permission from <a href="http://www.system76.com/">system76.com</a>.</li>
+      <li>Ubuntu and Fedora logos: in accordance with the respective trademark guidelines (<a href="https://fedoraproject.org/wiki/Legal/TrademarkGuidelines">Fedora</a>, <a href="https://www.ubuntu.com/aboutus/trademarkpolicy">Ubuntu</a>)</li>
+      <li>gNewSense artwork: based on work by Dave Crossland, <abbr title="Creative Commons">CC</abbr> <abbr title="Attribution, Share Alike">BY-SA</abbr>, with special thanks.</li>
+      <li><a href="https://trisquel.info/en/wiki/logo">Trisquel logo</a> by Rubén Rodríguez Pérez, <a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU <abbr title="General Public License">GPL</abbr></a>.</li>
+      <li>The laptop image on the "Try or install" page used with permission from <a href="https://www.system76.com/">system76.com</a>.</li>
     </ul>
 
     <h2 id="fonts">Fonts</h2>
